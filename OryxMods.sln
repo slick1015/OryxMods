@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMod", "TemplateMod\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastStart", "FastStart\FastStart.csproj", "{146980D0-B2C7-458C-A5B4-1BAF24B7E4EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisableAnalytics", "DisableAnalytics\DisableAnalytics.csproj", "{72181853-3B5E-41CB-85CC-C81CE557E2AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{146980D0-B2C7-458C-A5B4-1BAF24B7E4EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{146980D0-B2C7-458C-A5B4-1BAF24B7E4EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{146980D0-B2C7-458C-A5B4-1BAF24B7E4EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72181853-3B5E-41CB-85CC-C81CE557E2AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72181853-3B5E-41CB-85CC-C81CE557E2AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72181853-3B5E-41CB-85CC-C81CE557E2AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72181853-3B5E-41CB-85CC-C81CE557E2AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
