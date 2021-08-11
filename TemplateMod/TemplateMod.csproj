@@ -35,6 +35,14 @@
       <HintPath>C:\Users\$(USERNAME)\Documents\RealmOfTheMadGod\Production\MelonLoader\Managed\Assembly-CSharp.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Il2Cppmscorlib">
+      <HintPath>C:\Users\$(USERNAME)\Documents\RealmOfTheMadGod\Production\MelonLoader\Managed\Il2Cppmscorlib.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Il2CppSystem">
+      <HintPath>C:\Users\$(USERNAME)\Documents\RealmOfTheMadGod\Production\MelonLoader\Managed\Il2CppSystem.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="MelonLoader">
       <HintPath>C:\Users\$(USERNAME)\Documents\RealmOfTheMadGod\Production\MelonLoader\MelonLoader.dll</HintPath>
       <Private>False</Private>
