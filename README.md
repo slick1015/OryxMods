@@ -24,7 +24,7 @@ Disables DeltaDNA analytics for your privacy.
 ## DropNotifications
 Notifies the player when a white or orange bag is dropped with a swirly effect and text notification.
 
-Configuration file can be found in: `<game directory>/OryxMods/DropNotifications.toml`
+Configuration file can be found at: `<game directory>/OryxMods/DropNotifications.toml`
 
 TODO: include gif.
 
@@ -46,3 +46,11 @@ Allows you to launch the game without using the launcher and easily change accou
 Put account credentials in `<game directory>/Login.json` and open `RotMG Exalt.exe` to play without the launcher.
 
 TODO: video demonstration.
+
+---
+
+# Contact
+
+If you'd like to get in touch to make suggestions or ask questions you can add me on Discord @ `MrSlick#0001`.
+
+Mod ideas and suggestions are extremely welcomed and encouraged!
