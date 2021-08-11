@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DropNotifications", "DropNo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalPlayerPrefs", "LocalPlayerPrefs\LocalPlayerPrefs.csproj", "{9F39D17B-5B95-4722-8122-0C7575EFB09C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoArgLogin", "NoArgLogin\NoArgLogin.csproj", "{BFFFB5C6-4302-4D51-A0A7-1667E9DE40CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,10 @@ Global
 		{9F39D17B-5B95-4722-8122-0C7575EFB09C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F39D17B-5B95-4722-8122-0C7575EFB09C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F39D17B-5B95-4722-8122-0C7575EFB09C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFFFB5C6-4302-4D51-A0A7-1667E9DE40CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFFFB5C6-4302-4D51-A0A7-1667E9DE40CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFFFB5C6-4302-4D51-A0A7-1667E9DE40CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFFFB5C6-4302-4D51-A0A7-1667E9DE40CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -53,6 +59,7 @@ Global
 		{72181853-3B5E-41CB-85CC-C81CE557E2AF} = {83B3CACF-271B-45F8-A84F-626DEEC11612}
 		{BC523E7D-7C33-4945-A9D3-4C9D4C1E9904} = {83B3CACF-271B-45F8-A84F-626DEEC11612}
 		{9F39D17B-5B95-4722-8122-0C7575EFB09C} = {83B3CACF-271B-45F8-A84F-626DEEC11612}
+		{BFFFB5C6-4302-4D51-A0A7-1667E9DE40CD} = {83B3CACF-271B-45F8-A84F-626DEEC11612}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CD1063F6-8B10-4D6E-AD75-4E60A8F56A8B}
