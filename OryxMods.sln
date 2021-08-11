@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Templates", "Templates", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mods", "Mods", "{83B3CACF-271B-45F8-A84F-626DEEC11612}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DropNotifications", "DropNotifications\DropNotifications.csproj", "{BC523E7D-7C33-4945-A9D3-4C9D4C1E9904}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{72181853-3B5E-41CB-85CC-C81CE557E2AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72181853-3B5E-41CB-85CC-C81CE557E2AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72181853-3B5E-41CB-85CC-C81CE557E2AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC523E7D-7C33-4945-A9D3-4C9D4C1E9904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC523E7D-7C33-4945-A9D3-4C9D4C1E9904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC523E7D-7C33-4945-A9D3-4C9D4C1E9904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC523E7D-7C33-4945-A9D3-4C9D4C1E9904}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,6 +45,7 @@ Global
 		{F74EC3D1-01E1-471A-BDC9-3E7CCDF6B520} = {8091CC6F-F16E-4627-B0B2-D21D6EE3B2DB}
 		{146980D0-B2C7-458C-A5B4-1BAF24B7E4EE} = {83B3CACF-271B-45F8-A84F-626DEEC11612}
 		{72181853-3B5E-41CB-85CC-C81CE557E2AF} = {83B3CACF-271B-45F8-A84F-626DEEC11612}
+		{BC523E7D-7C33-4945-A9D3-4C9D4C1E9904} = {83B3CACF-271B-45F8-A84F-626DEEC11612}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CD1063F6-8B10-4D6E-AD75-4E60A8F56A8B}
